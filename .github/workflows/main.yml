@@ -3,7 +3,7 @@ name: Test Node.js App
 on:
   pull_request:
     branches:
-      - master
+      - integration
 
 jobs:
   test:
